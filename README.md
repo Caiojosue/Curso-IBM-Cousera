@@ -1,5 +1,7 @@
 # Curso-IBM-Cousera
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Caiojosue/Bot-Pedbot/blob/main/LICENSE)
+
 O Certificado Profissional de Ciência de Dados da IBM é um programa abrangente que visa capacitar indivíduos a se tornarem cientistas de dados competentes. Oferecido pela IBM através da plataforma Coursera, o curso é projetado para iniciantes e não requer experiência prévia em programação ou análise de dados.
 
 ## Conteúdo do Curso:
@@ -44,4 +46,4 @@ Em resumo, o Certificado Profissional de Ciência de Dados da IBM é uma excelen
 
 # Autor: 
 Caio Sando
-# Linkedin: https://www.linkedin.com/in/caio-sando-14ba1a2b5/
+##  Linkedin: https://www.linkedin.com/in/caio-sando-14ba1a2b5/
